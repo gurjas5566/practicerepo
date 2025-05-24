@@ -1,2 +1,4 @@
 File 2 contents
 from branch 1
+=======
+from main branch
